@@ -1,0 +1,2 @@
+include ':app', ':binder-annotations', ':binder-compiler', ':binder'
+rootProject.name='FirstAnnotation'
